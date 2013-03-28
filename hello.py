@@ -7,5 +7,6 @@ if __name__ == '__main__':
         count = int(sys.argv[1])
 		
     for i in xrange (count):
-        print ("Hello World")
+        print ("Hello World (test version)")
+
 
